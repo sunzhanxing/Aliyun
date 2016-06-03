@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>buttonIcon</key>
+		<string>domain_39x44_</string>
+		<key>buttonName</key>
+		<string>域名注册</string>
+	</dict>
+	<dict>
+		<key>buttonIcon</key>
+		<string>ecs_39x44_</string>
+		<key>buttonName</key>
+		<string>云服务器</string>
+	</dict>
+	<dict>
+		<key>buttonIcon</key>
+		<string>rds_39x44_</string>
+		<key>buttonName</key>
+		<string>云数据库</string>
+	</dict>
+	<dict>
+		<key>buttonIcon</key>
+		<string>oss_39x44_</string>
+		<key>buttonName</key>
+		<string>对象存储</string>
+	</dict>
+	<dict>
+		<key>buttonIcon</key>
+		<string>slb_39x44_</string>
+		<key>buttonName</key>
+		<string>负载均衡</string>
+	</dict>
+	<dict>
+		<key>buttonIcon</key>
+		<string>cdn_39x44_</string>
+		<key>buttonName</key>
+		<string>CDN</string>
+	</dict>
+	<dict>
+		<key>buttonIcon</key>
+		<string>dns_39x44_</string>
+		<key>buttonName</key>
+		<string>云盾</string>
+	</dict>
+	<dict>
+		<key>buttonIcon</key>
+		<string>ocs_39x44_</string>
+		<key>buttonName</key>
+		<string>Memcache</string>
+	</dict>
+</array>
+</plist>

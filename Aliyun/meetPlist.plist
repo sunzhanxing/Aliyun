@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>pictureImage</key>
+		<string>xiamen_image</string>
+		<key>label</key>
+		<string>2016云栖大会 · 厦门峰会</string>
+		<key>button</key>
+		<string>UMS_account_login</string>
+		<key>dateImage</key>
+		<string>date_image</string>
+		<key>dateLabel</key>
+		<string>6月15日</string>
+		<key>siteImage</key>
+		<string>site_image</string>
+		<key>siteLabel</key>
+		<string>厦门国际会议中心</string>
+	</dict>
+	<dict>
+		<key>pictureImage</key>
+		<string>wuhan_image</string>
+		<key>label</key>
+		<string>2016云栖大会 · 武汉峰会</string>
+		<key>button</key>
+		<string>UMS_account_login</string>
+		<key>dateImage</key>
+		<string>date_image</string>
+		<key>dateLabel</key>
+		<string>5月17日</string>
+		<key>siteImage</key>
+		<string>site_image</string>
+		<key>siteLabel</key>
+		<string>武汉东湖国际会议中心</string>
+	</dict>
+	<dict>
+		<key>pictureImage</key>
+		<string>nanjing_image</string>
+		<key>label</key>
+		<string>2016云栖大会 · 南京峰会</string>
+		<key>button</key>
+		<string>UMS_account_login</string>
+		<key>dateImage</key>
+		<string>date_image</string>
+		<key>dateLabel</key>
+		<string>4月27日</string>
+		<key>siteImage</key>
+		<string>site_image</string>
+		<key>siteLabel</key>
+		<string>厦门国际会议中心</string>
+	</dict>
+	<dict>
+		<key>pictureImage</key>
+		<string>shenzhen_image</string>
+		<key>label</key>
+		<string>2016云栖大会 · 深圳峰会</string>
+		<key>button</key>
+		<string>UMS_account_login</string>
+		<key>dateImage</key>
+		<string>date_image</string>
+		<key>dateLabel</key>
+		<string>4月19日</string>
+		<key>siteImage</key>
+		<string>site_image</string>
+		<key>siteLabel</key>
+		<string>深圳大中华喜来登酒店</string>
+	</dict>
+</array>
+</plist>
