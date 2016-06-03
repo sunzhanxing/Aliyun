@@ -23,12 +23,8 @@
 
 ## 项目分析
 
-#### 项目四个TabBar图片展示
-
-![图片来源于截图](https://www.teilim.com/content/images/photo/3.jpg)
-
-
 #### 阿里云
+
 此控制器大框架由一个 UITableView 组成，其中紫色框为 tableHeaderView 、粉色框为 UITableView 中的cell，而在 tableHeaderView 中，其中又细划分了两个大模块模块：图片轮播区和 LogoView 区。
 
 图片轮播区其实添加了两个控件，分别是 UIScrollView 和 UIPageControl 只要计算滚动的 Page 和长度就好了。而 LogoView 其实是用一个小的 UIView 将 UIButton 和 UILabel 进行封装，然后就是自定义 UITableView 中的 cell 了。
